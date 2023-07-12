@@ -138,7 +138,7 @@
     </dependencies>
 
     <build>
-        <finalName>sentinel-dashboard</finalName>
+        <finalName>sentinel-dashboard-${project.version}</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
